@@ -5,7 +5,7 @@
 - 🤖 Most of the time I use Python and C++
 - 📫 You can reach me here: [sarrasorwork@gmail.com](mailto:sarrasorwork@gmail.com)
 
-<!--- **My CV:** [click](https://raw.githubusercontent.com/Sarrasor/Sarrasor/main/cv.pdf) ---> 
+**My CV:** [click](https://raw.githubusercontent.com/Sarrasor/Sarrasor/main/cv.pdf)
 
 ## Tech stack
 
