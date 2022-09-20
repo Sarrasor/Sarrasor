@@ -1,6 +1,5 @@
 # Oh, hello there ✋ Daniil is here
 
-- 🇷🇺 I'm from Russia
 - 🚗 Сurrently working on motion planning for self-driving vehicles
 - 🤖 Most of the time I use C++ and Python
 - 📫 You can reach me here: [sarrasorwork@gmail.com](mailto:sarrasorwork@gmail.com)
